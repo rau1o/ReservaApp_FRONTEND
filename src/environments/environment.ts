@@ -1,4 +1,4 @@
 export const environment = {
-  production: false,
-  apiUrl: 'https://localhost:7296/api'
+  production: true,
+  apiUrl: 'reservaappapi-gthjefcdf5cqa0em.canadaeast-01.azurewebsites.net'
 };
